@@ -1,3 +1,3 @@
 
-# react-ecommerce-platform
-# react-redux
+# react-redux Ecommerce platform: https://react-redux-ben-franck.herokuapp.com/
+
